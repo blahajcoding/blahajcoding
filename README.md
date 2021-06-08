@@ -1,3 +1,3 @@
 # Intro
 
-Hi I'm Bluelight
+Hi I'm Bluelight, a techie who is interested in tech.
