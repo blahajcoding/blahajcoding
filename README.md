@@ -10,10 +10,7 @@
 <p>Hi I'm Bluelight (also known as Venus), a techie who pokes around with stuff..</p>
 <h2>✏️ Projects I work on</h2>
 <p>None. I'm lazy.</p>
-<div class="mb-3">
-  <label for="formFile" class="form-label">Default file input example</label>
-  <input class="form-control" type="file" id="formFile">
-</div>
+<button type="button" class="btn btn-primary">Primary</button>
 </body>
 </html>
 
