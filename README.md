@@ -10,7 +10,6 @@
 <p>Hi I'm Bluelight (also known as Venus), a techie who pokes around with stuff..</p>
 <h2>✏️ Projects I work on</h2>
 <p>None. I'm lazy.</p>
-<button type="button" class="btn btn-primary">Primary</button>
 </body>
 </html>
 
