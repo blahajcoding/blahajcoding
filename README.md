@@ -8,9 +8,9 @@
 <body>
 <h1>👋 hi, I'm Venus</h1>
 <p>a transfem that tinkers on tech.</p>
-   <h2> Personal info </h2>
+<h1> Personal info </h2>
 <h2>✏️ Projects I work on</h2>
-<p>None. I'm lazy.</p>
+<p><b>AmeOS Panamint</b> - An attempt on making the desktop better than ever</p>
 </body>
 </html>
 
