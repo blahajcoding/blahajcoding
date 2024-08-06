@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>👋 hi, I'm Venus</h1>
-<p>a transfem that tinkers on tech.</p>
+<p>an aliencat thing that tinkers on tech.</p>
 <h1> Personal info </h2>
 <h2>✏️ Projects I work on</h2>
 <p><b>AmeOS Panamint</b> - An attempt on making the desktop better than ever</p>
