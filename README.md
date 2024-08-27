@@ -11,6 +11,7 @@
 <h1> Personal info </h2>
 <h2>✏️ Projects I work on</h2>
 <p><b>AmeOS Panamint</b> - An attempt on making the desktop better than ever</p>
+<p><b>AmeOS for Android</b> - Balancing focus and even more personalization</p>
 </body>
 </html>
 
