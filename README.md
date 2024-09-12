@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-</head>
-<body>
-<h1>👋 hi, I'm Venus</h1>
-<p>an aliencat thing that tinkers on tech.</p>
-<h1> Personal info </h2>
-<h2>✏️ Projects I work on</h2>
-<p><b>AmeOS Panamint</b> - An attempt on making the desktop better than ever</p>
-<p><b>AmeOS for Android</b> - Balancing focus and even more personalization</p>
-</body>
-</html>
+# 👋 Hey! I'm Venus
+I'm a British designer, and I'm trying to make my dreams come true. It's becoming true though. I'm the CEO of AmeOS, and this is the website where you'll see silly designs, turn into an amazing OS, full of features!
+# 🧑‍💻 Stuff I work on
+- **AmeOS Panamint**: A unique Linux distro based on Arch, focused on primarily design and productivity.
+- **AmeOS for Android**: The most anticipated released of AmeOS *ever*. It's the most beautiful Android custom ROM to date, with so much customization included!
+- **Unbound**: Working with [@stell1x](https://github.com/stell1x), we're attempting to bridge the internet, and also making it fun. And no, it's impossible for it to die off, it's based on Bluesky.
 
+Thanks,
+
+![Logo](https://raw.githubusercontent.com/blahajcoding/blahajcoding/main/logo_dark.png#gh-dark-mode-only)
+![Logo](https://raw.githubusercontent.com/blahajcoding/blahajcoding/main/logo_light.png#gh-light-mode-only)
