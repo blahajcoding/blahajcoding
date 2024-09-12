@@ -7,5 +7,5 @@ I'm a British designer, and I'm trying to make my dreams come true. It's becomin
 
 Thanks,
 
-![Logo](https://raw.githubusercontent.com/blahajcoding/blahajcoding/main/logo_dark.png#gh-dark-mode-only)
-![Logo](https://raw.githubusercontent.com/blahajcoding/blahajcoding/main/logo_light.png#gh-light-mode-only)
+![Logo](https://github.com/blahajcoding/blahajcoding/blob/main/logo_dark.png?raw=true#gh-dark-mode-only)
+![Logo](https://github.com/blahajcoding/blahajcoding/blob/main/logo_light.png?raw=true#gh-light-mode-only)
