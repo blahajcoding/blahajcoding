@@ -1,8 +1,7 @@
 # 👋 Hey! I'm Venus
-I'm a British designer, and I'm trying to make my dreams come true. It's becoming true though. I'm the CEO of AmeOS, and this is the website where you'll see silly designs, turn into an amazing OS, full of features!
+I'm a British designer, and I'm trying to make my dreams come true. It's becoming true though. This is where you'll see most of ideas go from conception to production.
 # 🧑‍💻 Stuff I work on
 - **celesteOS**: A unique Linux distro based on Arch, focused on primarily design and productivity.
-- **Unbound**: Working with [@stell1x](https://github.com/stell1x), we're attempting to bridge the internet, and also making it fun. And no, it's impossible for it to die off, it's based on Bluesky.
 
 Thanks,
 
