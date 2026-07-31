@@ -1,9 +1,29 @@
-# 👋 Hey! I'm Venus
-I'm a British designer, and I'm trying to make my dreams come true. It's becoming true though. This is where you'll see most of ideas go from conception to production.
-# 🧑‍💻 Stuff I work on
-- **celesteOS**: A unique Linux distro based on Arch, focused on primarily design and productivity.
+# >^•-•^< hello!
 
-Thanks,
+i do stuff, mainly designing. i'm a computer science student otherwise
 
-![Logo](https://github.com/blahajcoding/blahajcoding/blob/main/logo_dark.png?raw=true#gh-dark-mode-only)
-![Logo](https://github.com/blahajcoding/blahajcoding/blob/main/logo_light.png?raw=true#gh-light-mode-only)
+## who i work with
+
+- `[@embeputer](https://github.com/embeputer)` we work on [@neuronfndn](https://github.com/neuronfndn)`, to make things that change the internet
+
+## what i work on
+
+- 👊 **Punch**: an agent/assistant that lives in Discord, fully private and self-hostable
+- 👁️ **Outcast**: the internet's forbidden knowledge, unlocked 
+
+## how i work 
+
+- 💻 **ThinkPad T14 Gen 3**
+    - AMD Ryzen 7 Pro 6850U
+    - 16GB RAM
+    - Arch Linux
+        - Niri + Noctalia
+    - Preferred code editor: vscodium
+- 📱 **Pixel 9**
+    - 128GB storage
+    - stock ROM
+
+## bonus info
+
+- 🏳️‍🌈 non-binary & bisexual
+- 🕐 UTC+01:00 (BST)
