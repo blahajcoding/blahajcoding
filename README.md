@@ -4,7 +4,7 @@ i do stuff, mainly designing. i'm a computer science student otherwise
 
 ## who i work with
 
-- `[@embeputer](https://github.com/embeputer)` we work on [@neuronfndn](https://github.com/neuronfndn)`, to make things that change the internet
+- [@embeputer](https://github.com/embeputer) we work on [@neuronfndn](https://github.com/neuronfndn), to make things that change the internet
 
 ## what i work on
 
