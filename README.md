@@ -8,7 +8,7 @@ i do stuff, mainly designing. i'm a computer science student otherwise
 
 ## what i work on
 
-- 👊 **Punch**: an agent/assistant that lives in Discord, fully private and self-hostable
+- 👊 **Punch**: an agent/assistant that goes wherever you do, designed to collab with others, fully private and self-hostable
 - 👁️ **Outcast**: the internet's forbidden knowledge, unlocked 
 
 ## how i work 
@@ -18,7 +18,7 @@ i do stuff, mainly designing. i'm a computer science student otherwise
     - 16GB RAM
     - Arch Linux
         - Niri + Noctalia
-    - Preferred code editor: vscodium
+    - preferred code editor: vscodium
 - 📱 **Pixel 9**
     - 128GB storage
     - stock ROM
